@@ -1,6 +1,10 @@
 .center {
         text-align: center;
 }
+
+.inicio {
+    text-align: center;
+}
         
 .grid-container {
     display: grid;
